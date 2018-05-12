@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5354
     wikipedia: http://en.wikipedia.org/wiki/Mary_Swartz_Rose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14066#Everyday-Foods-in-War-Time
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-11-17'
 gutenberg_type: Text

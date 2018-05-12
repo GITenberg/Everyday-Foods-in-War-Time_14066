@@ -1,0 +1,30 @@
+_repo: Everyday-Foods-in-War-Time_14066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rose, Mary Swartz
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '5354'
+    url: http://www.gutenberg.org/2009/agents/5354
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Swartz_Rose
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14066'
+  lccn: '18006207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Food conservation'
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: Everyday Foods in War Time
+url: http://www.gutenberg.org/ebooks/14066
